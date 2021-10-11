@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Benefits of Getting a Targeted Traffic That Coverts
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ###
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
