@@ -13,7 +13,7 @@
             {
                 "label": "Generic",
                 "url": "/generic/website-visitors",
-                "no_follow": true
+                "no_follow": false
             }
         ]
     },
