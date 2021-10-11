@@ -1,6 +1,5 @@
 ---
 title: Introducing 6 Powerful Strategies And Strategies To Increase Online Sales
-subtitle: Vanilla styleguide.
 seo:
   title: UI Kit
   description: This is the UI kit page
