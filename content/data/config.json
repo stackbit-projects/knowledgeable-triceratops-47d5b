@@ -25,7 +25,6 @@
         ]
     },
     "footer": {
-        "content": "<p>&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.targetedwebtraffic.com/?ref=134\">TargetedWebTraffic</a>. Create yours and <a href=\"https://www.targetedwebtraffic.com/?p=56 \">order now</a></p>",
         "has_social": true,
         "social_links": [
             {
