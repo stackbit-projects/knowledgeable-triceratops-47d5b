@@ -72,7 +72,10 @@ sections:
     image_alt: Geometric pattern
 seo:
   title: Benefits of Getting a Targeted Traffic That Coverts
-  description: The preview of the Vanilla theme
+  description: >-
+    Do you need more real clicks to your websites? you can buy clicks so easy
+    from us.  We will drive and can get more web traffic sources to an internet
+    site.
   extra:
     - name: 'og:type'
       value: website
