@@ -71,7 +71,7 @@ sections:
     type: section_content
     image_alt: Geometric pattern
 seo:
-  title: Stackbit Vanilla Theme
+  title: Benefits of Getting a Targeted Traffic That Coverts
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'
