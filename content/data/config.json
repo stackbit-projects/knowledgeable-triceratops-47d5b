@@ -14,12 +14,6 @@
                 "label": "Generic",
                 "url": "/generic/website-visitors",
                 "no_follow": false
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     },
