@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-subtitle: lorem-ipsum
 seo:
   title: ''
   description: ''
